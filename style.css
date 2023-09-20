@@ -1,0 +1,13 @@
+.primer{
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    overflow: hidden;
+}
+.segundo{
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+    background-color: aqua;
+    
+}
