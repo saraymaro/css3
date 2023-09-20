@@ -1,0 +1,30 @@
+html{
+    text-align: center;
+}
+.div0{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 70px;
+    border: solid medium black;
+    position:absolute;
+}
+.div1, .div2, .div3, .div4{
+    width: 40px;
+    height: 40px;
+    background-color: greenyellow;
+    border: solid medium black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.div1{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.div2{
+    position: relative;
+    top: ;
+}
