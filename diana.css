@@ -1,0 +1,29 @@
+.div{
+    position: absolute;
+    top: 100px;
+}
+
+.div-0{
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    border-radius: 250px;
+    -webkit-border-radius: 250px;
+    -moz-border-radius: 250px;
+    -ms-border-radius: 250px;
+    -o-border-radius: 250px;
+    
+}
+.div-1{
+    width: 450px;
+    height: 450px;
+    background-color: red;
+    border-radius: 225px;
+    -webkit-border-radius: 225px;
+    -moz-border-radius: 225px;
+    -ms-border-radius: 225px;
+    -o-border-radius: 225px;
+}
+.div-2{
+
+}
